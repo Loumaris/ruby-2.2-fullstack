@@ -1,4 +1,4 @@
-FROM ruby:2.2 
+FROM ruby:2.2.6
 MAINTAINER christian.heimke@loumaris.com
 
 # Install apt based dependencies required to run Rails as 
